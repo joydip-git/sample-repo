@@ -1,0 +1,10 @@
+E:\LnT-Training\sample-repo\CalculaulationLibrary\bin\Debug\netcoreapp3.1\CalculaulationLibrary.deps.json
+E:\LnT-Training\sample-repo\CalculaulationLibrary\bin\Debug\netcoreapp3.1\CalculaulationLibrary.dll
+E:\LnT-Training\sample-repo\CalculaulationLibrary\bin\Debug\netcoreapp3.1\CalculaulationLibrary.pdb
+E:\LnT-Training\sample-repo\CalculaulationLibrary\obj\Debug\netcoreapp3.1\CalculaulationLibrary.csproj.AssemblyReference.cache
+E:\LnT-Training\sample-repo\CalculaulationLibrary\obj\Debug\netcoreapp3.1\CalculaulationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\LnT-Training\sample-repo\CalculaulationLibrary\obj\Debug\netcoreapp3.1\CalculaulationLibrary.AssemblyInfoInputs.cache
+E:\LnT-Training\sample-repo\CalculaulationLibrary\obj\Debug\netcoreapp3.1\CalculaulationLibrary.AssemblyInfo.cs
+E:\LnT-Training\sample-repo\CalculaulationLibrary\obj\Debug\netcoreapp3.1\CalculaulationLibrary.csproj.CoreCompileInputs.cache
+E:\LnT-Training\sample-repo\CalculaulationLibrary\obj\Debug\netcoreapp3.1\CalculaulationLibrary.dll
+E:\LnT-Training\sample-repo\CalculaulationLibrary\obj\Debug\netcoreapp3.1\CalculaulationLibrary.pdb

@@ -1,0 +1,17 @@
+E:\LnT-Training\sample-repo\CalculaulationClient\bin\Debug\netcoreapp3.1\CalculaulationClient.exe
+E:\LnT-Training\sample-repo\CalculaulationClient\bin\Debug\netcoreapp3.1\CalculaulationClient.deps.json
+E:\LnT-Training\sample-repo\CalculaulationClient\bin\Debug\netcoreapp3.1\CalculaulationClient.runtimeconfig.json
+E:\LnT-Training\sample-repo\CalculaulationClient\bin\Debug\netcoreapp3.1\CalculaulationClient.runtimeconfig.dev.json
+E:\LnT-Training\sample-repo\CalculaulationClient\bin\Debug\netcoreapp3.1\CalculaulationClient.dll
+E:\LnT-Training\sample-repo\CalculaulationClient\bin\Debug\netcoreapp3.1\CalculaulationClient.pdb
+E:\LnT-Training\sample-repo\CalculaulationClient\obj\Debug\netcoreapp3.1\CalculaulationClient.csproj.AssemblyReference.cache
+E:\LnT-Training\sample-repo\CalculaulationClient\obj\Debug\netcoreapp3.1\CalculaulationClient.GeneratedMSBuildEditorConfig.editorconfig
+E:\LnT-Training\sample-repo\CalculaulationClient\obj\Debug\netcoreapp3.1\CalculaulationClient.AssemblyInfoInputs.cache
+E:\LnT-Training\sample-repo\CalculaulationClient\obj\Debug\netcoreapp3.1\CalculaulationClient.AssemblyInfo.cs
+E:\LnT-Training\sample-repo\CalculaulationClient\obj\Debug\netcoreapp3.1\CalculaulationClient.csproj.CoreCompileInputs.cache
+E:\LnT-Training\sample-repo\CalculaulationClient\obj\Debug\netcoreapp3.1\CalculaulationClient.dll
+E:\LnT-Training\sample-repo\CalculaulationClient\obj\Debug\netcoreapp3.1\CalculaulationClient.pdb
+E:\LnT-Training\sample-repo\CalculaulationClient\obj\Debug\netcoreapp3.1\CalculaulationClient.genruntimeconfig.cache
+E:\LnT-Training\sample-repo\CalculaulationClient\bin\Debug\netcoreapp3.1\CalculaulationLibrary.dll
+E:\LnT-Training\sample-repo\CalculaulationClient\bin\Debug\netcoreapp3.1\CalculaulationLibrary.pdb
+E:\LnT-Training\sample-repo\CalculaulationClient\obj\Debug\netcoreapp3.1\CalculaulationClient.csproj.CopyComplete
